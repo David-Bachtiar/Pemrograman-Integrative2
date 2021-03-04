@@ -8,5 +8,5 @@ main (){
  cin>>angka1;
  cout <<"masukan angka kedua : ";
  cin>> angka2;
- cout<<"penjumlahan = "<<angka1+angka2<<endl;
+ cout<<"pengurangan = "<<angka1-angka2<<endl;
 }
